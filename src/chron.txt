@@ -151,7 +151,7 @@ beach,Jim/Chris/Casey/Nancy/Linda,Ocean City MD,1973 summer
 banging on table,Casey/Jim/Nancy/Fred/Chris,Shelb.,1973 fall
 rollerskating,Jim/Chris/Casey/Nancy/Linda,Shelb.
 christmas,Chris/Nancy/Casey,Shelb.,1973/12/25
-christmas (blacked out)
+christmas (blacked out),Fred,Shelb.
 santa's lap,Chris/Nancy/Linda/Casey
 #=====================================================================================================================1974
 dancing,Chris/Nancy/Casey,Shelb.,1974 winter
@@ -161,7 +161,7 @@ carriage,Casey/Chris,Shelb.
 running/hose,Chris/Nancy/Casey,Shelb.
 big wheels,Casey/Chris/Nancy/Rebecca/Jim,North Carolina,1974
 baking cookies,Casey/Nancy/Chris
-black
+black,unknown,unknown
 *film start-----------------------------------------------------------------------------------------14--0022
 Christmas/pogo,Chris/Nancy/Casey,NC,1974/12/25
 #=====================================================================================================================1975
