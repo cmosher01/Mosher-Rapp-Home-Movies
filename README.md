@@ -1,2 +1,2 @@
 # Mosher-Rapp-Home-Movies
-Home movies from the last '60s and early '70s, restored from 8mm film, Mosher/Rapp family.
+Home movies from the late 1960s and early 1970s, restored from 8mm film, Mosher/Rapp family, of Wilmington, Delaware.
