@@ -21,7 +21,7 @@ fireplace,Chris,Windsor Hills
 humidifier,Chris,Windsor Hills
 toy bike on patio,Chris,Windsor Hills,1968/04
 in yard,Chris/Campbells/dog,Campbell's House Fairfax VA,1968/04
-cleaning bed,Chris
+cleaning bed,Chris,Windsor Hills
 playing catch,Chris/Fred,Windsor Hills
 toy car on patio,Chris/Fred/Alice/Linda,Windsor Hills
 swinging,Chris/Fred,Windsor Hills,1968/04
@@ -39,10 +39,10 @@ bassinette,Nancy,WH
 swinging,Linda/Chris,WH,1968/07
 *film start------------------------------------------------------------------------------------------4--0004
 playing outside,Chris,WH,1968/07
-crib,Nancy
+crib,Nancy,WH
 bushes,Chris,1968/08
 beach,Linda/Chris/Nancy,some Beach ??? possibly Ocean City MD,
-pool,Barry/Chris,
+pool,Barry/Chris,unknown
 beach,Linda/Nancy/Barry/Chris,some Beach
 standing on Mom,Linda/Nancy,WH
 crawling,Nancy,WH
@@ -85,7 +85,7 @@ outside,Nancy/Campbells/Linda,WH
 pool,Nancy/Eric/Jim/Neville/Chris/Barry,Graylyn Crest,1969/08
 curtain,Nancy,WH
 swing,Nancy,WH,1969/09
-sitting/mittens,Nancy
+sitting/mittens,Nancy,unknown
 swinging/doll,Nancy,WH
 hose,Chris,WH
 beach,Chris/Nancy,Ocean City MD?
@@ -123,7 +123,7 @@ back of truck,Fred/Jim/Chris/Nancy,Shelb.
 by fireplace,Chris/Linda/Nancy/Casey,Shelburne Dr.,1972/11
 in seat,Casey/Linda,Shelb,1972/11
 crib,Casey
-holding papers,Chris/Nancy/Casey
+holding papers,Chris/Nancy/Casey,unknown
 crib,Casey
 #=====================================================================================================================1973
 digging,Jim/Chris/Nancy/Jen Cooper?,Shelb, Spring 1973
@@ -141,7 +141,7 @@ school picnic?,Chris/Nancy/other kids/Mrs. Hallberg.,Shelb.
 *film start-----------------------------------------------------------------------------------------11--0018
 bath,Casey,Shelb.,1973/summer
 Chris's BD 7,Casey/Jim/Chris/Fred/Nancy,Shelb.
-(UL-corner-only) crawling,Casey
+(UL-corner-only) crawling,Casey,Shelb.
 crawling,Casey/Linda
 game,Nancy/Chris/Tommy Granger/Casey,Shelb.
 pool,Nancy/Chris/Perry/Jen Cooper,Timber Lane

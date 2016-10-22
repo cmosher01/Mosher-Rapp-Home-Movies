@@ -48,7 +48,7 @@ while (($lin = stream_get_line($chron,65536,"\n")) && $state != STATE_END)
       $state = STATE_END;
     else
     {
-      preg_match('/([^,]*),([^,]*),([^,]*),?([^,]*)/',$lin,$regs);
+      preg_match('/([^,]*),([^,]*),?([^,]*),?([^,]*)/',$lin,$regs);
 
       if ($regs[3] == "WH")
         $regs[3] = "Windsor Hills";
