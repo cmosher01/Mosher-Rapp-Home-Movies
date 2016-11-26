@@ -1,7 +1,9 @@
+@import url("http://fonts.googleapis.com/css?family=Gentium+Basic|&subset=latin,latin-ext");
+
 body
 {
-	background-color: #FAEBD7;
-	font-family: sans-serif;
+	background-color: #333A56;
+	font-family: "Gentium Basic", serif;
 }
 
 table.film
@@ -11,5 +13,5 @@ table.film
 
 table.scene,td.scene,th.scene
 {
-	background-color: #99ddff;
+	background-color: #52658F;
 }
