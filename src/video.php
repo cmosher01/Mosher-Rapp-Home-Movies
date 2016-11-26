@@ -6,7 +6,7 @@
     <link href="video.css" rel="stylesheet" type="text/css" />
   </head>
   <body>
-<iframe width="660" height="525" src="https://www.youtube.com/embed/<?php echo $_GET['vidid']; ?>"></iframe>
+<iframe width="660" height="525" src="https://www.youtube.com/embed/<?php echo $_GET['vidid']; ?>" allowfullscreen></iframe>
 <p>
 Click the movie to play it. You can drag the slider to skip around in the movie.
 </p>
