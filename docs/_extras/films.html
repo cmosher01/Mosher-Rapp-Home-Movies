@@ -5,7 +5,8 @@ permalink: /films
 <table>
 {% assign films = site.films | sort: 'film_ord' %}
 {% tablerow film in films cols:5 %}
-    <a href="{{film.youtube_id}}">
+    {% capture url %}/films/{{film.youtube_id}}{% endcapture %}
+    <a href="{{url | relative_url}}">
         <img src="http://i3.ytimg.com/vi/{{film.youtube_id}}/default.jpg"><br>
         {{film.desc}}
     </a>
