@@ -1,0 +1,35 @@
+18 fps -> NTSC  IVTC patterns
+
+matching using BOTTOM field as basis against TOP fields from:
+  P = previous frame,
+  C = current frame,
+  N = next frame,
+  lower case p, c, n, indicate partial match, due to double exposed field(s)
+  a/b indicates either a or b match the same
+
+repeat
+count       PATTERN
+
+   1        c   P   C   p   P
+  16        C   P   C   p   P
+  17        C   P   C   c   P
+  32        C   p   P/C c   P
+   1        C   p   P/C
+
+with just two exceptions, due to film and NTSC being in sync here:
+  first field (frame 0000): C   instead of c
+  last  field (frame 4999): P/C instead of P
+
+
+
+conversly:
+matching using TOP field as basis against BOTTOM fields
+
+  33        N   c   C/N n   C
+  17        N   c   C   N   C
+  16        N   n   C   N   C
+   1        N   n   C
+
+with two exceptions:
+  add once at beginning: C/N n C
+  add once at end: N C

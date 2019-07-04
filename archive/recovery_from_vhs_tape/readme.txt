@@ -6,7 +6,11 @@ See vhs_description.txt for information about the VHS tape.
 
 Original: Super 8mm film (18 frames per second, color, silent) shot in 1967-1969.
 Put onto VHS tape, say 1985 or 1986. It appears that there was no synchronization
-between the film projector and the video taping mechanism.
+between the film projector and the video taping mechanism. For analysis of this
+pattern, I wrote a python calculation program (see the sync_analysis directory).
+Through trial and error adjusting the film rate in this program, I was able to
+determine that the film was played at a rate that was faster than normal, just
+above 19 frames per second.
 
 Captured through Panasonic GS400 (DV format) into 2 computer AVI files (4cc: "dvsd"):
 mosher_home_vhs_cap1.avi contains films A and B
