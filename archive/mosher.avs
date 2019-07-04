@@ -1,4 +1,4 @@
-# Input AVI files (from foreverondvd.com) Each on is from a reel
+# Input AVI files (from foreverondvd.com) Each one is from a reel
 # of film. Each reel is composed of several original short films.
 OpenDMLSource("..\foreverondvd\original\Reel1.avi",fourcc="YUY2")+\
 OpenDMLSource("..\foreverondvd\original\Reel2.avi",fourcc="YUY2")+\
@@ -8,6 +8,7 @@ OpenDMLSource("..\foreverondvd\original\Reel3.avi",fourcc="YUY2")
 # understand, so we need to convert it. We told AviSynth it was YUY2 above,
 # (even though it's really UYVY) then here we convert it from UYVY to YUY2.
 # I wrote my own plugin to do the conversion. The conversion is lossless.
+# https://github.com/cmosher01/cmosher-software-archive/tree/master/av/uyvy2yuy2
 LoadPlugin("C:\avisynth3rdpartyplugins\avisynth_c\avisynth_c-0.15\avisynth_c.dll")
 LoadCPlugin("C:\msys\1.0\home\Administrator\uyvy2yuy2\uyvy2yuy2.dll")
 ConvertUYVYtoYUY2()
@@ -398,7 +399,7 @@ f10 = f10.subt(2880,"Philadelphia Zoo")
 f05 = f05.subt(18,"Apr. 1971")
 f05 = f05.subt(90,"Falmouth, MA")
 f05 = f05.subt(2022,"May 1971")
-f05 = f05.subt(2094,"1303 Faulk Rd., Wilmington, DE")
+f05 = f05.subt(2094,"1303 Foulk Rd., Wilmington, DE")
 
 f18 = f18.subt(18,"Windsor Hills")
 f18 = f18.subt(2146,"Hagley, Brandywine River")
@@ -417,18 +418,18 @@ f07 = f07.subt(90,"Ocean City, MD")
 f07 = f07.subt(3397,"Windsor Hills")
 
 f12 = f12.subt(18,"Oct. 1972")
-f12 = f12.subt(90,"43 Shelburne Dr., Wilmington, DE")
+f12 = f12.subt(90,"43 Shellburne Dr., Wilmington, DE")
 
 f06 = f06.subt(18,"Nov. 1972")
 f06 = f06.subt(2181,"spring 1973")
 
-f11 = f11.subt(18,"Shelburne")
+f11 = f11.subt(18,"Shellburne")
 f11 = f11.subt(2491,"Timber Lane pool")
 
 f24 = f24.subt(18,"summer 1973")
 f24 = f24.subt(90,"Ocean City, MD")
 
-f20 = f20.subt(18,"Shelburne")
+f20 = f20.subt(18,"Shellburne")
 f20 = f20.subt(90,"fall 1973")
 f20 = f20.subt(1697,"Dec. 1973")
 f20 = f20.subt(3555,"winter 1974")
