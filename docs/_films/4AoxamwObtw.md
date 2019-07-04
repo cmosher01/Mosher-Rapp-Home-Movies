@@ -22,7 +22,7 @@ scenes:
   - date: ''
     theme: 'crawling'
     people: 'Nancy'
-    location: 'WH?'
+    location: 'Windsor Hills?'
   - date: ''
     theme: 'laughing'
     people: 'Nancy/Sally/Alice'

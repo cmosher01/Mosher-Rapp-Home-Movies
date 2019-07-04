@@ -10,5 +10,5 @@ scenes:
   - date: ' 1971/05'
     theme: 'Perry BD'
     people: 'Chris/Perry/Erik/Nancy/Kurty Spitz/Sally Davis'
-    location: 'Faulk Rd.'
+    location: 'Foulk Rd.'
 ...

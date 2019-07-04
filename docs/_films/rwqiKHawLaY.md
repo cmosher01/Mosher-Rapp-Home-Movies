@@ -6,7 +6,7 @@ scenes:
   - date: '1974 Spring'
     theme: 'toy horse'
     people: 'Casey'
-    location: 'Shelb. basement'
+    location: 'Shellburne basement'
   - date: ''
     theme: 'carriage'
     people: 'Casey/Chris'

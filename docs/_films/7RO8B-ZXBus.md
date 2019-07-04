@@ -6,7 +6,7 @@ scenes:
   - date: '1972/11'
     theme: 'by fireplace'
     people: 'Chris/Linda/Nancy/Casey'
-    location: 'Shelburne Dr.'
+    location: 'Shellburne Dr.'
   - date: '1972/11'
     theme: 'in seat'
     people: 'Casey/Linda'
@@ -34,5 +34,5 @@ scenes:
   - date: ''
     theme: 'playing outside'
     people: 'Casey/Chris/Nancy/Linda'
-    location: 'Shelb?'
+    location: 'Shellburne?'
 ...
