@@ -1,0 +1,22 @@
+---
+youtube_id: '_v0ZM28FZhY'
+film_ord: '0015'
+desc: '1972-10 to 1972-11'
+scenes:
+  - date: '1972/10'
+    theme: 'Halloween candy'
+    people: 'Chris/Nancy/Barry'
+    location: 'Shellburne'
+  - date: ''
+    theme: 'dancing'
+    people: 'Chris/Nancy'
+    location: 'Shellburne'
+  - date: ''
+    theme: 'jungle gym'
+    people: 'Chris/Nancy'
+    location: 'Shellburne'
+  - date: ''
+    theme: 'back of truck'
+    people: 'Fred/Jim/Chris/Nancy'
+    location: 'Shellburne'
+...

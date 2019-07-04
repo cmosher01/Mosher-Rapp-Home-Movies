@@ -1,0 +1,13 @@
+---
+layout: default
+permalink: /films
+---
+<table>
+{% assign films = site.films | sort: 'film_ord' %}
+{% tablerow film in films cols:5 %}
+    <a href="{{film.youtube_id}}">
+        <img src="http://i3.ytimg.com/vi/{{film.youtube_id}}/default.jpg"><br>
+        {{film.desc}}
+    </a>
+{% endtablerow %}
+</table>

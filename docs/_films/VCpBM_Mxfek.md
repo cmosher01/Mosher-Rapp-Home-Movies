@@ -1,0 +1,22 @@
+---
+youtube_id: 'VCpBM_Mxfek'
+film_ord: '0012'
+desc: '1971-07 to 1971-09'
+scenes:
+  - date: '1971/07'
+    theme: 'Chris BD'
+    people: 'Chris/Nancy/Sally/Kutry/Perry/Eric/Fred/Patty Davis'
+    location: 'Windsor Hills'
+  - date: ''
+    theme: 'sprinkler/swing'
+    people: 'Chris/Nancy'
+    location: 'Windsor Hills'
+  - date: '1971/09'
+    theme: 'falls'
+    people: 'Fred/Chris/Nancy'
+    location: 'Chittenango Falls NY'
+  - date: ''
+    theme: 'by water'
+    people: 'Chris/Nancy'
+    location: 'Chittenango Falls???'
+...

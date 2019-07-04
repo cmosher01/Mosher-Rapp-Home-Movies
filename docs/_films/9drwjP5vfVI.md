@@ -1,0 +1,22 @@
+---
+youtube_id: '9drwjP5vfVI'
+film_ord: '0011'
+desc: '1971-05 to 1971-07'
+scenes:
+  - date: '1971/05 (matches photo of Chris’s 70/71 preschool year)'
+    theme: 'school picnic'
+    people: 'Chris/class/Mrs. Hallberg/Nancy'
+    location: 'Windsor Hills'
+  - date: ''
+    theme: 'swinging'
+    people: 'Nancy'
+    location: 'Windsor Hills'
+  - date: ''
+    theme: 'hagley'
+    people: 'Chris/Nancy'
+    location: 'Hagley'
+  - date: '1971/07'
+    theme: 'playground'
+    people: 'Chris/Nancy'
+    location: 'Stapler Park? Wilm. DE'
+...

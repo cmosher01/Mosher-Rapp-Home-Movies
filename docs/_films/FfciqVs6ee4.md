@@ -1,0 +1,22 @@
+---
+youtube_id: 'FfciqVs6ee4'
+film_ord: '0027'
+desc: '1977-10?'
+scenes:
+  - date: '1977 fall'
+    theme: 'game of life'
+    people: 'Chris/Nancy/Casey'
+    location: 'Normandy Manor'
+  - date: ''
+    theme: 'marshmallows/fireplace'
+    people: 'Chris/Nany/Casey/Jim'
+    location: 'Normandy Manor'
+  - date: ''
+    theme: 'raking leaves'
+    people: 'Betty/Casey/Jim/Chris'
+    location: 'Normandy Manor'
+  - date: ''
+    theme: 'packing car'
+    people: 'Betty/Jim/Casey'
+    location: 'Normandy Manor'
+...
